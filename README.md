@@ -56,10 +56,8 @@ A customer support chatbot prototype that integrates with a Model Context Protoc
    ```
 
 4. **Set environment variables**
-   ```bash
-   cp .env.example .env
+   
    # Edit .env and add your OPENROUTER_API_KEY
-   ```
 
 5. **Run the application**
    ```bash
